@@ -26,7 +26,11 @@
     margin-left: auto;
     margin-right: auto;
     color:rgba(0,0,0,0.8);
-    font: 68px sans-serif;
+}
+.Lorem {
+    text-indent: 1.5em; /* Отступ первой строки */
+    font: 60px sans-serif;
+    font-weight: 600; /* Жирное начертание */
 }
 #content {
     border:1px solid #000;
