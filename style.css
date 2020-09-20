@@ -23,7 +23,7 @@
     border: 0px solid #fff;
     text-align:center;
     display: block;
-    margin-left: auto;;
+    margin-left: auto;
     margin-right: auto;
     font-weight: 80;
     color:rgba(0,0,0,0.8);
@@ -38,6 +38,7 @@
 .parag {
     text-indent: 1.5em; /* Отступ первой строки */
     text-align: justify; /* Выравнивание по ширине */
+    font: 48px sans-serif;
 }
 #footer {
     border: 1px solid #000;
