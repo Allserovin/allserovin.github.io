@@ -14,30 +14,30 @@
     border-radius: 15px 15px 0 0;
 }
 #logo {
-    border:1px solid #000;
-    border-radius: 40px;
-    height: 80px;
-    width: 80px;
-    box-shadow: 0px 0px 10px 10px rgba(1,1,0,0.5);
+    height: 160;
     display: block;
     margin-left: auto; 
     margin-right: auto;
-    z-index: 100;
 }
 #zagol {
-    border: 0px solid #000;
-    width:130px;
+    border: 0px solid #fff;
+    text-align:center;
     display: block;
-    margin-left: auto; 
+    margin-left: auto;;
     margin-right: auto;
-    font-weight: 800;
-    color:rgba(0,0,0,0.6);
+    font-weight: 80;
+    color:rgba(0,0,0,0.8);
 }
 #content {
     border:1px solid #000;
     padding: 5px;
     margin-top: 5px;
     background-color: burlywood;
+}
+
+.parag {
+    text-indent: 1.5em; /* Отступ первой строки */
+    text-align: justify; /* Выравнивание по ширине */
 }
 #footer {
     border: 1px solid #000;
@@ -46,3 +46,4 @@
     margin-top: 5px;
     background: linear-gradient(to right, #F6EFD2 0%, #CEAD78 50%, #F6EFD2 100%);
 }
+© 2020 GitHub, Inc.
